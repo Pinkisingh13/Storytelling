@@ -45,7 +45,7 @@ Welcome to my project! A small attempt to make an Storytelling Application devel
 - Use the git clone command followed by the repository URL
 
 ```sh
-git clone https://github.com/Pinkisingh13/Storytelling-App.git
+https://github.com/Pinkisingh13/Storytelling.git
 ```
 ### Install dependencies
 
