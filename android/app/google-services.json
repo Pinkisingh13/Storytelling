@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "981090665361",
+    "project_id": "storytelling-5a5b9",
+    "storage_bucket": "storytelling-5a5b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981090665361:android:de4538df1f4c435035d030",
+        "android_client_info": {
+          "package_name": "com.example.storytelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981090665361-0pc88ukm6m63mht0o5efcrtuh8hk1u6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storytelling",
+            "certificate_hash": "9871730b17b41314d750de0d3e1ed95c1be2a917"
+          }
+        },
+        {
+          "client_id": "981090665361-tgqmcsvmqn9oqjcqmqui4ieem4spglq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pljhmGUSoDl1WlUB--cDkoVHujaajw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981090665361-tgqmcsvmqn9oqjcqmqui4ieem4spglq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981090665361-q2pqqvgmaiillt1d4v13hok9n8sag3td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storytelling"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
