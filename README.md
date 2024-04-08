@@ -7,6 +7,7 @@ Welcome to my project! A small attempt to make an Storytelling Application devel
 ### . Flutter
 ### . Dart
 ### . Firebase
+### . Firestore
 
 ## 📱 Illustration
 <h3 align="center">Splash and Onboarding Screens</h3>
