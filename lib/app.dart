@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       // home: const OnBoardingScreen(),
       initialBinding: GeneralBindings(),
       home: const Scaffold(
-        backgroundColor: TColors.primary,
+        backgroundColor: TColors.accent,
         body: Center(
           child: CircularProgressIndicator(
             color: Colors.white,

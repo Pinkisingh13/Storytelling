@@ -13,7 +13,7 @@ void main() async {
   final WidgetsBinding widgetsBinding =
       WidgetsFlutterBinding.ensureInitialized();
 
-// Initialize Get Storag
+// Initialize Get Storage
  await GetStorage.init();
 
 // Await Splash Screen until other item load
